@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Devowfs201_Project/static/css/main.3fb2f6fc.css",
+    "main.js": "/Devowfs201_Project/static/js/main.8515ccd6.js",
+    "static/media/product-5.jpg": "/Devowfs201_Project/static/media/product-5.dc387231ab4f081d2485.jpg",
+    "static/media/product-2.png": "/Devowfs201_Project/static/media/product-2.22ea556ef57973020c29.png",
+    "static/media/product-4.png": "/Devowfs201_Project/static/media/product-4.3e873e4301af817dcdd5.png",
+    "static/media/product-3.png": "/Devowfs201_Project/static/media/product-3.13f1fb185f86aeacf138.png",
+    "static/media/product-1.png": "/Devowfs201_Project/static/media/product-1.df2d4509e8d6a67eadeb.png",
+    "static/media/product-6.png": "/Devowfs201_Project/static/media/product-6.3f54d4315d02d3b911ed.png",
+    "index.html": "/Devowfs201_Project/index.html",
+    "main.3fb2f6fc.css.map": "/Devowfs201_Project/static/css/main.3fb2f6fc.css.map",
+    "main.8515ccd6.js.map": "/Devowfs201_Project/static/js/main.8515ccd6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fb2f6fc.css",
+    "static/js/main.8515ccd6.js"
+  ]
+}
